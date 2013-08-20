@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">aTily</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="error_base_url_not_specified">Please specify base_url for ATily widget.</string>
+    <string name="error_network_timeout">Network timeout.</string>
+    <string name="error_response_parsing_error">Error parsing network response.</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res/me.voidmain.ui.controls.atily"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <me.voidmain.ui.controls.atily.ATily
+        android:id="@+id/tily"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        custom:base_url="http://10.0.0.91/~voidmain/tily/earth" />
+
+</RelativeLayout>
